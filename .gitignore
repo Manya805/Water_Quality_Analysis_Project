@@ -1,0 +1,38 @@
+# Arduino IDE
+*.ino.*
+*.cpp.*
+*.h.*
+*.elf
+*.hex
+*.bin
+*.d
+*.o
+
+# Arduino backup files
+*~
+*.bak
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE specific
+.vscode/
+.idea/
+*.code-workspace
+
+# PlatformIO
+.pio/
+.pioenvs/
+.build/
+lib_deps/
+.clang_complete
+.gcc-flags.json
+
+# Firebase credentials (if saved as a separate config file)
+firebase_config.h
