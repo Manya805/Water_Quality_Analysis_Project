@@ -16,7 +16,7 @@
 #define WIFI_PASSWORD "123456789"
 
 // Firebase credentials
-#define API_KEY "AIzaSyASw-A83sBJMCe6a0ZPeZK13wQIs3atNk8"
+#define API_KEY "API KEY"
 #define DATABASE_URL "doctor-module-c7eb9-default-rtdb.firebaseio.com/"
 #define USER_EMAIL "manyaasrani11@gmail.com"
 #define USER_PASSWORD "123456"
