@@ -37,7 +37,7 @@ An IoT-based solution that monitors the real-time quality of water using pH, TDS
 ## How to Run
 
 1. Clone this repository.
-2. Open `code/water_quality_monitor.ino` in Arduino IDE.
+2. Open `IDE_Code/water_quality_monitor.ino` in Arduino IDE.
 3. Modify with your Wi-Fi and Firebase credentials.
 4. Upload to ESP32.
 5. Observe readings on the LCD and Firebase dashboard.
